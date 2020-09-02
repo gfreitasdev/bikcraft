@@ -2,7 +2,7 @@
 
   <p> Bikcraft é um site que oferece serviços pra customização da sua própria bicicleta.</p>
   <h3> Projeto desenvolvido pela Origamid.</h3>
-  <p> Conceitos apontados durante o projeto: </p>
+  <p> Conceitos abordados durante o projeto: </p>
   <ul>
   <li>Ux Design, UI Design</li>
   <li>Adobe XD</li>
