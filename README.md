@@ -1,6 +1,5 @@
   <h2>bikcraft</h2>
 
-<h1> Descrição
   <p> Bikcraft é um site que oferece serviços pra customização da sua própria bicicleta.</p>
   <h3> Projeto desenvolvido pela Origamid.</h3>
   <p> Conceitos abordados durante o projeto: </p>
