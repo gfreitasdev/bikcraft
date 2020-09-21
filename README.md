@@ -1,5 +1,6 @@
   <h2>bikcraft</h2>
 
+<h1> Descrição
   <p> Bikcraft é um site que oferece serviços pra customização da sua própria bicicleta.</p>
   <h3> Projeto desenvolvido pela Origamid.</h3>
   <p> Conceitos abordados durante o projeto: </p>
@@ -7,7 +8,7 @@
   <li>Ux Design, UI Design</li>
   <li>Adobe XD</li>
   <li>HTML e CSS básico</li>
-  <li>JavaScript</li>
+  <li>Animações em JavaScript</li>
   <li>Domínio, Hospedagem e Analytics</li>
  
   <h2>Wireframe</h2>
@@ -18,5 +19,8 @@
   <p> Link da UI do projeto</p>
   https://xd.adobe.com/view/13cc0f09-ead1-4e4f-9112-8688fc4c6ee1-469f/
   <p><img src="https://user-images.githubusercontent.com/62725777/92046923-1007af00-ed5a-11ea-8bbf-7df20150d34d.jpg"></p>
+  
+  <h2>Deploy no netlify<h2>
+  <p>bikcraft-origamid.netlify.app</p>
 
-  <h3> Projeto em desenvolvimento, em breve novas atualizações no repositório</h3>
+  <h3> Projeto Finalizado ✔️ </h3>
