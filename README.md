@@ -20,6 +20,6 @@
   <p><img src="https://user-images.githubusercontent.com/62725777/92046923-1007af00-ed5a-11ea-8bbf-7df20150d34d.jpg"></p>
   
   <h2>Deploy no netlify<h2>
-  <p>bikcraft-origamid.netlify.app</p>
+  <p>https://www.bikcraft-origamid.netlify.app</p>
 
   <h3> Projeto Finalizado ✔️ </h3>
